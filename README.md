@@ -8,7 +8,7 @@
 
 Let us make a game where our character collects snacks and grows larger!
 
-![Image description](https://raw.githubusercontent.com/cncovingtongames/dojo-demo-snack-grab/master/demoImages/Gameplay.gif)
+![Image description](https://raw.githubusercontent.com/cncovingtongames/dojo-demo-snack-grab/master/demoImages/Gameplay2.gif)
 
 ## Step One
 
