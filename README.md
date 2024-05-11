@@ -6,9 +6,9 @@
 
 ## Introduction @unplugged
 
-First create a character to star in your game!
+Let us make a game where our character collects snacks and grows larger!
 
-![Image description](https://raw.githubusercontent.com/cncovingtongames/dojo-demo-snack-grab/master/demoImages/img1.png)
+![Image description](https://raw.githubusercontent.com/cncovingtongames/dojo-demo-snack-grab/master/demoImages/Gameplay.gif)
 
 ## Step One
 
@@ -18,3 +18,5 @@ Use the ``||custom:make random background||`` block to add a background color.
 // @highlight
 custom.makeRandomBackground()
 ```
+
+![Image description](https://raw.githubusercontent.com/cncovingtongames/dojo-demo-snack-grab/master/demoImages/img1.png)
