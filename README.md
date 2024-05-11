@@ -1,33 +1,20 @@
  
-
-
 > Open this page at [https://cncovingtongames.github.io/dojo-demo-snack-grab/](https://cncovingtongames.github.io/dojo-demo-snack-grab/)
+> Open tutorial at https://arcade.makecode.com/#tutorial:S11301-29922-32903-43877
 
-## Use as Extension
+# Create a Character
 
-This repository can be added as an **extension** in MakeCode.
+## Introduction @unplugged
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/cncovingtongames/dojo-demo-snack-grab** and import
+First create a character to star in your game!
 
-## Edit this project ![Build status badge](https://github.com/cncovingtongames/dojo-demo-snack-grab/workflows/MakeCode/badge.svg)
+![Image description](https://raw.githubusercontent.com/cncovingtongames/dojo-demo-snack-grab/master/demoImages/img1.png)
 
-To edit this repository in MakeCode.
+## Step One
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/cncovingtongames/dojo-demo-snack-grab** and click import
+Use the ``||custom:make random background||`` block to add a background color.
 
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/cncovingtongames/dojo-demo-snack-grab/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+```blocks
+// @highlight
+custom.makeRandomBackground()
+```
