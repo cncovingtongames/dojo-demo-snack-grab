@@ -18,5 +18,3 @@ Use the ``||custom:make random background||`` block to add a background color.
 // @highlight
 custom.makeRandomBackground()
 ```
-
-![Image description](https://raw.githubusercontent.com/cncovingtongames/dojo-demo-snack-grab/master/demoImages/img1.png)
