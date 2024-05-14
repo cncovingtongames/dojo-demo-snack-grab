@@ -1,6 +1,9 @@
  
 > Open this page at [https://cncovingtongames.github.io/dojo-demo-snack-grab/](https://cncovingtongames.github.io/dojo-demo-snack-grab/)
-> Open tutorial at https://arcade.makecode.com/#tutorial:S11301-29922-32903-43877
+
+> Play game at https://arcade.makecode.com/S47887-36407-82795-46934
+
+> Open tutorial at https://arcade.makecode.com/#tutorial:S47887-36407-82795-46934
 
 # Create a Character
 
@@ -8,13 +11,13 @@
 
 Let us make a game where our character collects snacks and grows larger!
 
-![Image description](https://raw.githubusercontent.com/cncovingtongames/dojo-demo-snack-grab/master/demoImages/Gameplay2.gif)
+![Gameplay animation](https://raw.githubusercontent.com/cncovingtongames/dojo-demo-snack-grab/master/demoImages/Gameplay2.gif)
 
 ## Step One
 
-Use the ``||custom:make random background||`` block to add a background color.
+Use the ``||sprites:sprite||`` block to add a background color.
 
 ```blocks
 // @highlight
-custom.makeRandomBackground()
+sprites.create()
 ```
