@@ -15,9 +15,19 @@ Let us make a game where our character collects snacks and grows larger!
 
 ## Step One
 
-Use the ``||sprites:sprite||`` block to add a background color.
+Use the ``||sprites:sprite||`` block to add a background image.
 
 ```blocks
 // @highlight
 sprites.create()
 ```
+
+## Step Two
+
+Add in a character sprite
+
+## Step Three
+
+Make it so the
+
+## Step Four
